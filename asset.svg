@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Github</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020619"/><stop offset=".25" stop-color="#071b61"/><stop offset=".48" stop-color="#174ac4"/><stop offset=".64" stop-color="#0a246b"/><stop offset="1" stop-color="#020719"/></linearGradient>
+    <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset=".17" stop-color="#c2d5e9"/><stop offset=".37" stop-color="#f6fdff"/><stop offset=".46" stop-color="#7c9ab8"/><stop offset=".49" stop-color="#e7f7ff"/><stop offset=".50" stop-color="#142b4e"/><stop offset=".59" stop-color="#345a8f"/><stop offset=".78" stop-color="#bfdfff"/><stop offset=".9" stop-color="#ffffff"/><stop offset="1" stop-color="#6b99d3"/></linearGradient>
+    <linearGradient id="edge" x2="0" y2="1"><stop stop-color="#d5f6ff"/><stop offset=".5" stop-color="#31557e"/><stop offset="1" stop-color="#8dd2ff"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#70ccff" stop-opacity=".55"/><stop offset=".5" stop-color="#1b63ff" stop-opacity=".25"/><stop offset="1" stop-color="#1239ba" stop-opacity="0"/></radialGradient>
+    <linearGradient id="line"><stop stop-color="#4069ac" stop-opacity="0"/><stop offset=".5" stop-color="#a4e5ff"/><stop offset="1" stop-color="#4069ac" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#6aaeff" stroke-opacity=".09"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="378" rx="22" fill="url(#bg)" stroke="#477bc1" stroke-width="2"/>
+  <ellipse cx="690" cy="120" rx="490" ry="185" fill="url(#glow)"/>
+  <path d="M20 287C240 155 590 331 1180 74M20 293C310 179 700 352 1180 82" fill="none" stroke="#89cfff" stroke-opacity=".15"/>
+  <rect x="2" y="2" width="1196" height="376" rx="21" fill="url(#grid)"/>
+  <path d="M24 48H1176" stroke="#5286cf" stroke-opacity=".55"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="900">
+    <text x="30" y="31" fill="#b4d9ff" font-size="13" letter-spacing="3">Developer.exe</text>
+    <text x="1035" y="31" fill="#a9dbff" font-size="13" letter-spacing="3">− □ ×</text>
+    <text x="64" y="103" fill="#b8deff" font-size="14" letter-spacing="5">Github</text>
+    <g font-family="Arial Black, Arial, Helvetica, sans-serif" font-style="italic" font-size="111" font-weight="900" letter-spacing="-5">
+      <text x="69" y="237" textLength="779" lengthAdjust="spacingAndGlyphs" fill="#02091b" stroke="#02091b" stroke-width="10" stroke-linejoin="bevel">hs2213</text>
+      <text x="65" y="231" textLength="779" lengthAdjust="spacingAndGlyphs" fill="#244f8c" stroke="#4e8ad7" stroke-width="5" stroke-linejoin="bevel">hs2213</text>
+      <text x="61" y="224" textLength="779" lengthAdjust="spacingAndGlyphs" fill="url(#chrome)" stroke="url(#edge)" stroke-width="2" paint-order="stroke fill" stroke-linejoin="bevel">hs2213</text>
+    </g>
+    <text x="66" y="279" fill="#d5ecff" font-size="19" letter-spacing="6">Backend / FullStack Developer</text>
+    <text x="64" y="345" fill="#a1c9ff" font-size="12" letter-spacing="3">hs2213</text>
+    <text x="982" y="345" fill="#9be4ff" font-size="12" letter-spacing="3">● ONLINE</text>
+  </g>
+  <g fill="none" stroke="#88caff">
+    <ellipse cx="1014" cy="188" rx="105" ry="37" transform="rotate(-36 1014 188)" stroke-width="3"/>
+    <ellipse cx="1014" cy="188" rx="105" ry="37" transform="rotate(36 1014 188)" stroke-opacity=".55" stroke-width="2"/>
+    <circle cx="1014" cy="188" r="47" stroke-width="2"/>
+    <ellipse cx="1014" cy="188" rx="19" ry="47" stroke-opacity=".6"/>
+    <path d="M967 188H1061M974 164H1054M974 212H1054" stroke-opacity=".6"/>
+  </g>
+  <g fill="#d5f2ff"><path d="M1098 77l5 16 16 5-16 5-5 16-5-16-16-5 16-5z"/><path d="M910 257l4 12 12 4-12 4-4 12-4-12-12-4 12-4z"/><circle cx="1138" cy="248" r="3"/><circle cx="945" cy="101" r="2"/></g>
+  <path d="M40 308H1160" stroke="url(#line)"/>
+</svg>
